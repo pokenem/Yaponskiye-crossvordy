@@ -1,0 +1,46 @@
+body
+{
+	background-color: #000;
+}
+img{
+	margin: 10px auto 20px;
+	width: 300px;
+	height: 100px;
+}
+a{
+	text-align: center;
+	display:inline-block;
+	width: 300px;
+	margin: 60px;
+	border: none;
+}
+h1
+{
+
+	text-align: center;
+}
+
+body {
+  background: linear-gradient(90deg, rgba(158, 43, 181) 0%, rgba(105, 18, 115) 35%, rgba(43, 5, 58) 100%);
+  }
+  .svetyash-chiysya {
+  font-size: 70px;
+  color: #f7f6f6;
+  text-align: center;
+  -webkit-animation: svetyash-chiysya 1s ease-in-out infinite alternate;
+  -moz-animation: svetyash-chiysya 1s ease-in-out infinite alternate;
+  animation: svetyash-chiysya 1s ease-in-out infinite alternate;
+  }
+  @-webkit-keyframes svetyash-chiysya {
+  from {
+  text-shadow: 0 0 10px #f5f0f0, 0 0 20px #101010, 0 0 30px #101010, 0 0 40px #101010, 0 0 50px #9052ad, 0 0 60px #9052ad, 0 0 70px #9052ad;
+  }
+  to {
+  text-shadow: 0 0 20px #f5f0f0, 0 0 30px #f54da1, 0 0 40px #f54da1, 0 0 50px #f54da1, 0 0 60px #f54da1, 0 0 70px #f54da1, 0 0 80px #f54da1;
+  }
+  }
+  
+
+a {
+  text-decoration: none;
+}
